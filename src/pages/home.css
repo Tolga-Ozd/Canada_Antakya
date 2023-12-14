@@ -1,0 +1,45 @@
+.slider-button {
+    background: #FFD4D4;
+    color: #6C002D;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 22px;
+    width: 136px;
+    height: 46px;
+    padding: 12px 16px 12px 16px;
+    border: none;
+    border-radius: 8px;
+    gap: 8px;
+    cursor: pointer;
+
+}
+
+.slider-button:hover {
+    
+    background: linear-gradient(90deg, #FFFFFF 30%,#FFBFDA);
+}
+
+
+.recipe-button {
+    background-color: transparent;
+    border-color: #FFD4D4;
+    color: #FFD4D4;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 22px;
+    width: 116px;
+    height: 46px;
+    padding: 12px 16px 12px 16px;
+    border: 1.5px solid;
+    border-radius: 8px;
+    gap: 8px;
+    cursor: pointer;
+
+}
+
+.recipe-button:hover {
+    background: #FFD4D4;
+    color: #6C002D;
+
+}
+

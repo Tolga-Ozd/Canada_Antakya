@@ -1,0 +1,478 @@
+[
+    {
+        "id" : 1,
+        "name" : "Eggs with Pastirma",
+        "slug" : "eggs-with-pastirma",
+        "imageUrl":"/images/recipe-1.png",
+        "description": "A Flavorful Twist to Your Breakfast Routine",
+        "prepTime" : "1h",
+        "prep" : "5 mins",
+        "serves" : "4",
+        "skill" : "Easy",
+        "cook" : "15 mins",
+        "total" : "20 mins",
+        "ingredients": [
+            {
+                "imageUrl":"/images/ingredients/ingredient-1.png",
+                "name" :"4 large eggs"
+            },
+            {
+                "imageUrl":"/images/ingredients/ingredient-2.1.png",
+                "name" :"4 slices of pastırma (Turkish cured beef)"
+            },
+            {
+                "imageUrl":"/images/ingredients/ingredient-3.png",
+                "name" :"1 tablespoon olive oil"
+            },
+            {
+                "imageUrl":"/images/ingredients/ingredient-4.png",
+                "name" :"Salt and pepper to taste"
+            },
+            {
+                "imageUrl":"/images/ingredients/ingredient-5.png",
+                "name" :"Optional toppings: chopped tomatoes, feta cheese, parsley"
+            }
+        ],
+        "howToMake": [
+            {
+                "imageUrl":"/images/howmake/image-1.png",
+                "title" : "Preparation",
+                "step": [
+                    {
+                        "description":"Preheat the oven to 350°F (175°C)."
+                    },
+                    {
+                        "description":"Grease individual oven-safe ramekins with olive oil."
+                    }
+                ]
+            },
+            {
+                "imageUrl":"/images/howmake/image-2.png",
+                "title" : "Pastirma Wrapping",
+                "step": [
+                    {
+                        "description":"Place a slice of pastırma in each ramekin, creating a cup-like shape to hold the eggs."
+                    },
+                    {
+                        "description":"Ensure that the pastırma covers the sides and bottom of the ramekin."
+                    }
+                ]
+            },
+            {
+                "imageUrl":"/images/howmake/image-3.png",
+                "title" : "Crack the Eggs",
+                "step": [
+                    {
+                        "description":"Crack one egg into each pastırma-lined ramekin."
+                    }
+                ]
+            },
+            {
+                "imageUrl":"/images/howmake/image-4.png",
+                "title" : "Seasoning",
+                "step": [
+                    {
+                        "description":"Sprinkle salt and pepper over each egg according to your taste."
+                    }
+                ]
+            },
+            {
+                "imageUrl":"/images/howmake/image-5.png",
+                "title" : "Baking",
+                "step": [
+                    {
+                        "description":"Place the ramekins in the preheated oven and bake for about 12-15 minutes or until the egg whites are set, but the yolks are still runny."
+                    }
+                ]
+            },
+            {
+                "imageUrl":"/images/howmake/image-6.png",
+                "title" : "Optional Toppings",
+                "step": [
+                    {
+                        "description":"While baking, prepare optional toppings like chopped tomatoes, crumbled feta cheese, and chopped parsley."
+                    }
+                ]
+            },
+            {
+                "imageUrl":"/images/howmake/image-7.png",
+                "title" : "Serve",
+                "step": [
+                    {
+                        "description":"Once done, remove the pastırmalı yumurta from the oven."
+                    },
+                    {
+                        "description":"Add your desired toppings."
+                    }
+                ]
+            },
+            {
+                "imageUrl":"/images/howmake/image-8.png",
+                "title" : "Enjoy",
+                "step": [
+                    {
+                        "description":"Serve immediately and enjoy your flavorful eggs with pastirma"
+                    }
+                ]
+            }
+        ]
+
+    },
+    {
+        "id" : 2,
+        "name" : "Sunny Egg and Pastirma",
+        "slug" : "sunny-egg-and-pastirma",
+        "imageUrl":"/images/recipe-2.png",
+        "description": "A Sun-Kissed Breakfast Delight",
+        "prepTime" : "1h",
+        "serves" : "2",
+        "prep" : "4 mins",
+        "skill" : "Easy",
+        "cook" : "15 mins",
+        "total" : "20 mins",
+        "ingredients": [
+            {
+                "imageUrl":"/images/ingredients/ingredient-1.png",
+                "name" :"4 large eggs"
+            },
+            {
+                "imageUrl":"/images/ingredients/ingredient-2.1.png",
+                "name" :"4 slices of pastırma (Turkish cured beef)"
+            },
+            {
+                "imageUrl":"/images/ingredients/ingredient-3.png",
+                "name" :"1 tablespoon olive oil"
+            },
+            {
+                "imageUrl":"/images/ingredients/ingredient-4.png",
+                "name" :"Salt and pepper to taste"
+            },
+            {
+                "imageUrl":"/images/ingredients/ingredient-5.png",
+                "name" :"Optional toppings: chopped tomatoes, feta cheese, parsley"
+            }
+        ],
+        "howToMake": [
+            {
+                "imageUrl":"/images/howmake/image-1.png",
+                "title" : "Preparation",
+                "step": [
+                    {
+                        "description":"Preheat the oven to 350°F (175°C)."
+                    },
+                    {
+                        "description":"Grease individual oven-safe ramekins with olive oil."
+                    }
+                ]
+            },
+            {
+                "imageUrl":"/images/howmake/image-2.png",
+                "title" : "Pastirma Wrapping",
+                "step": [
+                    {
+                        "description":"Place a slice of pastırma in each ramekin, creating a cup-like shape to hold the eggs."
+                    },
+                    {
+                        "description":"Ensure that the pastırma covers the sides and bottom of the ramekin."
+                    }
+                ]
+            },
+            {
+                "imageUrl":"/images/howmake/image-3.png",
+                "title" : "Crack the Eggs",
+                "step": [
+                    {
+                        "description":"Crack one egg into each pastırma-lined ramekin."
+                    }
+                ]
+            },
+            {
+                "imageUrl":"/images/howmake/image-4.png",
+                "title" : "Seasoning",
+                "step": [
+                    {
+                        "description":"Sprinkle salt and pepper over each egg according to your taste."
+                    }
+                ]
+            },
+            {
+                "imageUrl":"/images/howmake/image-5.png",
+                "title" : "Baking",
+                "step": [
+                    {
+                        "description":"Place the ramekins in the preheated oven and bake for about 12-15 minutes or until the egg whites are set, but the yolks are still runny."
+                    }
+                ]
+            },
+            {
+                "imageUrl":"/images/howmake/image-6.png",
+                "title" : "Optional Toppings",
+                "step": [
+                    {
+                        "description":"While baking, prepare optional toppings like chopped tomatoes, crumbled feta cheese, and chopped parsley."
+                    }
+                ]
+            },
+            {
+                "imageUrl":"/images/howmake/image-7.png",
+                "title" : "Serve",
+                "step": [
+                    {
+                        "description":"Once done, remove the pastırmalı yumurta from the oven."
+                    },
+                    {
+                        "description":"Add your desired toppings."
+                    }
+                ]
+            },
+            {
+                "imageUrl":"/images/howmake/image-8.png",
+                "title" : "Enjoy",
+                "step": [
+                    {
+                        "description":"Serve immediately and enjoy your flavorful eggs with pastirma"
+                    }
+                ]
+            }
+        ]
+
+    },
+    {
+        "id" : 3,
+        "name" : "Pastirma Salad",
+        "slug" : "pastirma-salad",
+        "imageUrl":"/images/recipe-3.png",
+        "description": "A Vibrant Fusion of Fresh Greens",
+        "prepTime" : "1h",
+        "serves" : "4",
+        "skill" : "Medium",
+        "prep" : "6 mins",
+        "cook" : "15 mins",
+        "total" : "20 mins",
+        "ingredients": [
+            {
+                "imageUrl":"/images/ingredients/ingredient-1.png",
+                "name" :"4 large eggs"
+            },
+            {
+                "imageUrl":"/images/ingredients/ingredient-2.1.png",
+                "name" :"4 slices of pastırma (Turkish cured beef)"
+            },
+            {
+                "imageUrl":"/images/ingredients/ingredient-3.png",
+                "name" :"1 tablespoon olive oil"
+            },
+            {
+                "imageUrl":"/images/ingredients/ingredient-4.png",
+                "name" :"Salt and pepper to taste"
+            },
+            {
+                "imageUrl":"/images/ingredients/ingredient-5.png",
+                "name" :"Optional toppings: chopped tomatoes, feta cheese, parsley"
+            }
+        ],
+        "howToMake": [
+            {
+                "imageUrl":"/images/howmake/image-1.png",
+                "title" : "Preparation",
+                "step": [
+                    {
+                        "description":"Preheat the oven to 350°F (175°C)."
+                    },
+                    {
+                        "description":"Grease individual oven-safe ramekins with olive oil."
+                    }
+                ]
+            },
+            {
+                "imageUrl":"/images/howmake/image-2.png",
+                "title" : "Pastirma Wrapping",
+                "step": [
+                    {
+                        "description":"Place a slice of pastırma in each ramekin, creating a cup-like shape to hold the eggs."
+                    },
+                    {
+                        "description":"Ensure that the pastırma covers the sides and bottom of the ramekin."
+                    }
+                ]
+            },
+            {
+                "imageUrl":"/images/howmake/image-3.png",
+                "title" : "Crack the Eggs",
+                "step": [
+                    {
+                        "description":"Crack one egg into each pastırma-lined ramekin."
+                    }
+                ]
+            },
+            {
+                "imageUrl":"/images/howmake/image-4.png",
+                "title" : "Seasoning",
+                "step": [
+                    {
+                        "description":"Sprinkle salt and pepper over each egg according to your taste."
+                    }
+                ]
+            },
+            {
+                "imageUrl":"/images/howmake/image-5.png",
+                "title" : "Baking",
+                "step": [
+                    {
+                        "description":"Place the ramekins in the preheated oven and bake for about 12-15 minutes or until the egg whites are set, but the yolks are still runny."
+                    }
+                ]
+            },
+            {
+                "imageUrl":"/images/howmake/image-6.png",
+                "title" : "Optional Toppings",
+                "step": [
+                    {
+                        "description":"While baking, prepare optional toppings like chopped tomatoes, crumbled feta cheese, and chopped parsley."
+                    }
+                ]
+            },
+            {
+                "imageUrl":"/images/howmake/image-7.png",
+                "title" : "Serve",
+                "step": [
+                    {
+                        "description":"Once done, remove the pastırmalı yumurta from the oven."
+                    },
+                    {
+                        "description":"Add your desired toppings."
+                    }
+                ]
+            },
+            {
+                "imageUrl":"/images/howmake/image-8.png",
+                "title" : "Enjoy",
+                "step": [
+                    {
+                        "description":"Serve immediately and enjoy your flavorful eggs with pastirma"
+                    }
+                ]
+            }
+        ]
+
+    },
+    {
+        "id" : 4,
+        "name" : "Turkish Navy with Pastirma",
+        "slug" : "turkish-navy-with-pastirma",
+        "imageUrl":"/images/recipe-4.png",
+        "description": "A Hearty and Flavorful Turkish Classic",
+        "prepTime" : "1h",
+        "serves" : "2",
+        "prep" : "7 mins",
+        "skill" : "Hard",
+        "cook" : "15 mins",
+        "total" : "20 mins",
+        "ingredients": [
+            {
+                "imageUrl":"/images/ingredients/ingredient-1.png",
+                "name" :"4 large eggs"
+            },
+            {
+                "imageUrl":"/images/ingredients/ingredient-2.1.png",
+                "name" :"4 slices of pastırma (Turkish cured beef)"
+            },
+            {
+                "imageUrl":"/images/ingredients/ingredient-3.png",
+                "name" :"1 tablespoon olive oil"
+            },
+            {
+                "imageUrl":"/images/ingredients/ingredient-4.png",
+                "name" :"Salt and pepper to taste"
+            },
+            {
+                "imageUrl":"/images/ingredients/ingredient-5.png",
+                "name" :"Optional toppings: chopped tomatoes, feta cheese, parsley"
+            }
+        ],
+        "howToMake": [
+            {
+                "imageUrl":"/images/howmake/image-1.png",
+                "title" : "Preparation",
+                "step": [
+                    {
+                        "description":"Preheat the oven to 350°F (175°C)."
+                    },
+                    {
+                        "description":"Grease individual oven-safe ramekins with olive oil."
+                    }
+                ]
+            },
+            {
+                "imageUrl":"/images/howmake/image-2.png",
+                "title" : "Pastirma Wrapping",
+                "step": [
+                    {
+                        "description":"Place a slice of pastırma in each ramekin, creating a cup-like shape to hold the eggs."
+                    },
+                    {
+                        "description":"Ensure that the pastırma covers the sides and bottom of the ramekin."
+                    }
+                ]
+            },
+            {
+                "imageUrl":"/images/howmake/image-3.png",
+                "title" : "Crack the Eggs",
+                "step": [
+                    {
+                        "description":"Crack one egg into each pastırma-lined ramekin."
+                    }
+                ]
+            },
+            {
+                "imageUrl":"/images/howmake/image-4.png",
+                "title" : "Seasoning",
+                "step": [
+                    {
+                        "description":"Sprinkle salt and pepper over each egg according to your taste."
+                    }
+                ]
+            },
+            {
+                "imageUrl":"/images/howmake/image-5.png",
+                "title" : "Baking",
+                "step": [
+                    {
+                        "description":"Place the ramekins in the preheated oven and bake for about 12-15 minutes or until the egg whites are set, but the yolks are still runny."
+                    }
+                ]
+            },
+            {
+                "imageUrl":"/images/howmake/image-6.png",
+                "title" : "Optional Toppings",
+                "step": [
+                    {
+                        "description":"While baking, prepare optional toppings like chopped tomatoes, crumbled feta cheese, and chopped parsley."
+                    }
+                ]
+            },
+            {
+                "imageUrl":"/images/howmake/image-7.png",
+                "title" : "Serve",
+                "step": [
+                    {
+                        "description":"Once done, remove the pastırmalı yumurta from the oven."
+                    },
+                    {
+                        "description":"Add your desired toppings."
+                    }
+                ]
+            },
+            {
+                "imageUrl":"/images/howmake/image-8.png",
+                "title" : "Enjoy",
+                "step": [
+                    {
+                        "description":"Serve immediately and enjoy your flavorful eggs with pastirma"
+                    }
+                ]
+            }
+        ]
+
+    }
+]
