@@ -6,6 +6,11 @@ import LinearProgress from '@mui/material/LinearProgress';
 
 
 const HomeSlider = () => {
+   
+    const handleSubmit = () => {
+      window.location.href = '/#name';
+    };
+
     const [sliderId, setSliderId] = useState(1);
     const [sliderTitle, setSliderTitle] = useState("");
     const [sliderDescription, setSliderDescription] = useState("");
@@ -145,11 +150,12 @@ const HomeSlider = () => {
                                 {sliderDescription}
                             </Typography>
 
-                            <button className="slider-button"  >
+                            <button onClick={handleSubmit} className="slider-button"  >
                                 <Stack
                                     direction='row' justifyContent="space-between"
                                     alignItems="center">
-                                    <span>Contact us </span>
+                                        
+                                    <span>Contact Us </span>
                                     <ArrowCircleRightOutlined sx={{ color: '#6C002D', width: '22px', height: '22px', border: '1.5px' }} />
                                 </Stack>
                             </button>
