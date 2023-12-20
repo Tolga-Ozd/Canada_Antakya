@@ -129,7 +129,7 @@ const Home = () => {
           </Stack>
 
           <ThemeProvider theme={theme}>
-            <FormGroup>
+            <FormGroup id="form">
               <FormControl sx={{ width: '100%' }} variant="outlined">
                 <OutlinedInput
                   id="name"
