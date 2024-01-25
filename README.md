@@ -1,8 +1,8 @@
 
  ## Welcome to My Project!  👋
 Thank you for visiting my projects! I'm thrilled to have you here, and I hope you find it interesting and helpful.
-## All the project=> https://tolga-ozd.github.io/Gelir-Gider-Tablo/
-![Canada_Antakya.ca](C:\Users\Tolga\OneDrive\Masaüstü\Canada_Antakya.ca.gif)
+## All the project=> [https://tolga-ozd.github.io/Gelir-Gider-Tablo/](https://canada-antakyaca.vercel.app/)
+![Canada_Antakya.ca]([https://tolga-ozd.github.io/Gelir-Gider-Tablo/](https://canada-antakyaca.vercel.app/)
 ## About Me
 I can quickly grasp new technologies and concepts to develop innovative and creative solutions to problems. I am always ready to learn about various technologies, tools and libraries.
 
